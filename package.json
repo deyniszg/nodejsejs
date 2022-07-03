@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node vistasexpress.js"
+    "start": "node vistasexpressFinal.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
